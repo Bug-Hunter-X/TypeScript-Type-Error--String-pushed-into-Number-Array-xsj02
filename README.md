@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript type error.  The `push` method attempts to add a string to a number array, resulting in a type error. The solution shows how to prevent this error by ensuring type safety.
